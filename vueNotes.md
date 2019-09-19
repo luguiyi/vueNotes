@@ -62,8 +62,8 @@ npm install -g @vue/cli
 
 项目访问成功
 # 项目启动命令
-yarn serve
-npm run serve
+* yarn serve
+* npm run serve
 
 # 常见问题
 ## VueCLI3如何更改安装时的包管理器为yarn或npm
