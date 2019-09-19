@@ -11,8 +11,7 @@
 npm install -g @vue/cli
 
 安装完后cmd输入vue -V可以看到vue的版本,说明安装成功
-### vue2.0 卸载
-npm uninstall -g vue-cli
+
 ## 安装vscode
 使用vscode作为编辑工具
 # 项目创建
@@ -63,3 +62,5 @@ npm run serve
 # 常见问题
 ## VueCLI3如何更改安装时的包管理器为yarn或npm
 [跳转博客园](https://www.cnblogs.com/saysmy/p/10064573.html)
+## vue2.0 如何卸载
+npm uninstall -g vue-cli
